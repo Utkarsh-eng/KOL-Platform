@@ -1,0 +1,129 @@
+[
+    {
+        "name": "Andrew Ng",
+        "affiliation": "Stanford University",
+        "research_interests": [
+            "Machine Learning",
+            "Deep Learning",
+            "AI"
+        ],
+        "publications": [
+            "Latent dirichlet allocation",
+            "ROS: an open-source Robot Operating System",
+            "On spectral clustering: Analysis and an algorithm",
+            "Recursive deep models for semantic compositionality over a sentiment treebank",
+            "Rectifier nonlinearities improve neural network acoustic models",
+            "Reading digits in natural images with unsupervised feature learning",
+            "Learning word vectors for sentiment analysis",
+            "An analysis of single-layer networks in unsupervised feature learning",
+            "Large scale distributed deep networks",
+            "Advances in neural information processing systems 22"
+        ],
+        "citations": "316446",
+        "h_index": "160",
+        "i10_index": "382",
+        "paper_title": "Strain and serovar variants of Salmonella enterica exhibit diverse tolerance to food chain-related stress",
+        "abstract": "Non-Typhoidal Salmonella (NTS) continues to be a leading cause of foodborne illness worldwide. Food manufacturers implement hurdle technology by combining more than one approach to control food safety and quality, including preservatives such as organic acids, refrigeration, and heating. We assessed the variation in survival in stresses of genotypically diverse isolates of Salmonella enterica to identify genotypes with potential elevated risk to sub-optimal processing or cooking. Sub-lethal heat treatment, survival in desiccated conditions and growth in the presence of NaCl or organic acids were investigated. S. Gallinarum strain 287/91 was most sensitive to all stress conditions. While none of the strains replicated in a food matrix at 4 \u00b0C, S. Infantis strain S1326/28 retained the greatest viability, and six strains exhibited a significantly reduced viability. A S. Kedougou strain exhibited the greatest resistance to incubation at 60 \u00b0C in a food matrix that was significantly greater than S. Typhimurium U288, S Heidelberg, S. Kentucky, S. Schwarzengrund and S. Gallinarum strains. Two isolates of monophasic S. Typhimurium, S04698-09 and B54Col9 exhibited the greatest tolerance to desiccation that was significantly more than for the S. Kentucky and S. Typhimurium U288 strains. In general, the presence of 12 mM acetic acid or 14 mM citric acid resulted in a similar pattern of decreased growth in broth, but this was not observed for S. Enteritidis, and S. Typhimurium strains ST4/74 and U288 S01960-05. Acetic acid had a moderately greater effect on growth despite the lower concentration tested. A similar pattern of decreased growth was observed in the presence of 6% NaCl, with the notable exception that S. Typhimurium strain U288 S01960-05 exhibited enhanced growth in elevated NaCl concentrations.",
+        "authors": [
+            "Hannah V Pye",
+            "Ga\u0451tan Thilliez",
+            "Luke Acton",
+            "Rafa\u0142 Kolenda",
+            "Haider Al-Khanaq",
+            "Stephen Grove",
+            "Robert A Kingsley",
+            "Hannah V Pye",
+            "Ga\u0451tan Thilliez",
+            "Luke Acton",
+            "Rafa\u0142 Kolenda",
+            "Haider Al-Khanaq",
+            "Stephen Grove",
+            "Robert A Kingsley"
+        ]
+    },
+    {
+        "name": "Li Fei-Fei",
+        "affiliation": "Professor of Computer Science, Stanford University",
+        "research_interests": [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Computer Vision",
+            "Neuroscience"
+        ],
+        "publications": [
+            "Imagenet: A large-scale hierarchical image database",
+            "Imagenet large scale visual recognition challenge",
+            "Perceptual losses for real-time style transfer and super-resolution",
+            "On the opportunities and risks of foundation models",
+            "Large-scale video classification with convolutional neural networks",
+            "Deep visual-semantic alignments for generating image descriptions",
+            "Visual genome: Connecting language and vision using crowdsourced dense image annotations",
+            "Learning generative visual models from few training examples: An incremental bayesian approach tested on 101 object categories",
+            "3d object representations for fine-grained categorization",
+            "A bayesian hierarchical model for learning natural scene categories"
+        ],
+        "citations": "351308",
+        "h_index": "177",
+        "i10_index": "450",
+        "paper_title": "Economic potential of essential oil production from New Zealand-grown Eucalyptus bosistoana",
+        "abstract": "Farm foresters and other growers are establishing a ground-durable hardwood resource, including the emerging plantation species Eucalyptus bosistoana in New Zealand. The foliage of this species contains essential oils in quantity and quality suitable for commercial extraction. Essential oil production could improve the economic viability of E. bosistoana plantations, diversifying the grower's income and providing an early revenue stream. This study assessed the economic potential for essential oil production from New Zealand grown E. bosistoana plantations. A sensitivity analysis indicated that uncertainty of leaf biomass availability, genetic as well as seasonal changes in oil content, and fluctuations in essential oil price are equally important on the viability of an essential oil operation. Small-scale essential oil production could be sustainably supplied with foliage from thinning and pruning operations sourced from the envisaged regional planting programmes and commence in 3-5 years. A large-scale operation could be supplied when trees will be harvested. Lastly, based on the operational costs of a domestic small-scale essential oil producer, oil value from E. bosistoana would exceed the cost of production.",
+        "authors": [
+            "Chamira Rajapaksha",
+            "Paul Greaves",
+            "Clemens M Altaner",
+            "Chamira Rajapaksha",
+            "Paul Greaves",
+            "Clemens M Altaner"
+        ]
+    },
+    {
+        "name": "Yann LeCun",
+        "affiliation": "Executive Chairman AMI Labs & Jacob T Schwarz Professor, Courant Institute, New York University",
+        "research_interests": [
+            "AI",
+            "machine learning",
+            "computer vision",
+            "robotics",
+            "image compression"
+        ],
+        "publications": [
+            "Deep learning",
+            "Gradient-based learning applied to document recognition",
+            "Backpropagation applied to handwritten zip code recognition",
+            "Convolutional networks for images, speech, and time series",
+            "The MNIST database of handwritten digits",
+            "Character-level convolutional networks for text classification",
+            "Efficient backprop",
+            "OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks",
+            "Dimensionality reduction by learning an invariant mapping",
+            "Handwritten digit recognition with a back-propagation network"
+        ],
+        "citations": "473220",
+        "h_index": "173",
+        "i10_index": "475",
+        "paper_title": "The Effects of Dexamethasone on the Time to Pain Resolution in Dental Periapical Abscess",
+        "abstract": "Background:\n        \n      \n      Dental infections are frequently encountered in the emergency department (ED), with periapical abscesses being among the most painful. Traditional pain management strategies include local anesthetic injections, oral analgesics, and intravenous opioids.\n    \n\n\n          Objectives:\n        \n      \n      We sought to identify an alternative pain management strategy with early use of dexamethasone as adjunct to conventional therapies for inflammation and pain at the site of infection.\n    \n\n\n          Methods:\n        \n      \n      We conducted a prospective, randomized, double-blind, placebo-controlled study comparing the analgesic effect of dexamethasone and placebo in ED patients with periapical abscess during a 2-year timeframe at two urban academic EDs. Adult patients presenting with physical examination findings consistent with a diagnosis of periapical abscess were randomized to receive oral dexamethasone or an identical placebo. Pain was assessed using the verbal numeric scale in person at discharge and via telephone at 12, 24, 48, and 72 h after discharge from the ED.\n    \n\n\n          Results:\n        \n      \n      Seventy-three patients were enrolled, with 37 receiving dexamethasone and 36 receiving placebo. Follow-up pain scores were obtained for 52 patients at 12, 24, 48, and 72 h. Ten patients from the dexamethasone group and 11 from placebo group were lost to follow-up. Patients who received dexamethasone reported a greater reduction in pain at 12 h compared with the placebo group (p = 0.029). Changes in pain scores from baseline and at 24, 48, and 72 h were not statistically significant. No adverse events were reported.\n    \n\n\n          Conclusions:\n        \n      \n      Single-dose dexamethasone as adjunct to conventional medical management for pain caused by periapical abscess demonstrated a significant reduction in pain 12 h post treatment compared with placebo.",
+        "authors": [
+            "Georgia P Baumann",
+            "Whitney Robertson",
+            "Ashley Guinn",
+            "Kurt Curtis",
+            "Kate Morizio",
+            "Daniel Jarrell",
+            "Christopher Edwards",
+            "Scott Lowry",
+            "Dale Woolridge",
+            "Noah Tolby",
+            "Georgia P Baumann",
+            "Whitney Robertson",
+            "Ashley Guinn",
+            "Kurt Curtis",
+            "Kate Morizio",
+            "Daniel Jarrell",
+            "Christopher Edwards",
+            "Scott Lowry",
+            "Dale Woolridge",
+            "Noah Tolby"
+        ]
+    }
+]
